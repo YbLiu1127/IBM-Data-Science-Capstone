@@ -26,7 +26,7 @@ Data from Wikipedia: https://en.wikipedia.org/wiki/List_of_Falcon_9_and_Falcon_H
   * Time
 
 
-## Data Cleaning and Wringling  
+## Data Cleaning and Wrangling  
 After scraping the data, I needed to clean it up so that it was usable for our model. I made the following changes and created the folowing variables.
 * Filter the dataframe to only include Falcon 9 launches  
 * Replace the missing payloadmass value with average payloadmass  
